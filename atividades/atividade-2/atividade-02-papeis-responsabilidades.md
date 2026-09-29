@@ -71,4 +71,3 @@ Claude (Anthropic).
 Novamente solicitei que conferisse a ortografia e reescreve possíveis erros em minhas respostas, também solicitei que montasse o README de acordo com a estrutura solicitada.
 
 **Como as respostas foram verificadas:**
-[DESCREVER, ex.: conferi se cada atividade da matriz tem ao menos um R e um único A, revisei se cada responsabilidade faz sentido para o papel e ajustei os textos ao contexto do LocalEats.]
